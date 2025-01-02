@@ -1,6 +1,5 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        
         MIN = (-2)**31
         MAX = 2**31
         s = s.strip(" ")
