@@ -1,10 +1,9 @@
 class Solution:
-    def waysToSplitArray(self, nums: List[int]) -> int:
-        n = len(nums)
-        preSum = [0]*n
-        preSum[0] = nums[0]
+    def waysToSplitArray(self, preSum: List[int]) -> int:
+        n = len(preSum)
+        preSum[0] = preSum[0]
         for i in range(1,n):
-            preSum[i] = preSum[i-1] + nums[i]
+            preSum[i] = preSum[i-1] + preSum[i]
         print(preSum)
         ans = 0
         for i in range(n-1):
