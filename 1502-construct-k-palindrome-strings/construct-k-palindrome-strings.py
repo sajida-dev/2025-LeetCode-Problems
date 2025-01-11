@@ -10,7 +10,7 @@ class Solution:
                 dic[a] = 1 
             else:
                 dic[a]+=1
-        print(dic)
+        #print(dic)
         singleElement = 0
         words = 0
         for key in dic.keys():
