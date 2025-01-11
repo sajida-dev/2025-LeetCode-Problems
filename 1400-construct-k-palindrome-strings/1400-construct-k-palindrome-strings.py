@@ -17,9 +17,9 @@ class Solution:
             if dic[key]%2!=0: # odd
                 singleElement += 1
                 if(dic[key] > 1):
-                    words += 2
+                    words += dic[key]-1
             else: #even
-                words += 2
+                words += dic[key]
             if(singleElement > k):
                 return False
 
