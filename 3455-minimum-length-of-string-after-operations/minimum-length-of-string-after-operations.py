@@ -3,13 +3,9 @@ class Solution:
         dic = [0]*26
         for a in s:
             dic[ord(a)-ord('a')] += 1
-        
         ans = 0
         for val in dic:
-            if(val>3):
-                ans += 2 if(val%2==0) else 1
-            elif(val == 3):
-                ans+=1
-            else:
-                ans += val
-        return ans
+            if(val == 0):
+                continue
+            ans += (val-2) if(val%2==0) else (val-1)
+        return len(s)-ans
