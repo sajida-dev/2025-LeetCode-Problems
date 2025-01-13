@@ -1,23 +1,15 @@
 class Solution:
     def minimumLength(self, s: str) -> int:
-        dic = {}
+        dic = [0]*26
         for a in s:
-            if a not in dic:
-                dic[a] = 1
-            else:
-                dic[a] += 1
-        #print(dic)
+            dic[ord(a)-ord('a')] += 1
+        
         ans = 0
-        for key in dic.keys():
-            if(dic[key]>3):
-                if(dic[key]%2==0):
-                    ans += 2
-                else:
-                    ans += 1
-            elif(dic[key] == 3):
+        for val in dic:
+            if(val>3):
+                ans += 2 if(val%2==0) else 1
+            elif(val == 3):
                 ans+=1
             else:
-                ans += dic[key]
-            
+                ans += val
         return ans
-        aaaaaaa
