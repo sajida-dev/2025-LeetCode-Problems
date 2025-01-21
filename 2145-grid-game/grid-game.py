@@ -1,8 +1,6 @@
-import copy
 class Solution:
-    def gridGame(self, grid: List[List[int]]) -> int:
-        pre = copy.deepcopy(grid)
-        n=len(grid[0])
+    def gridGame(self, pre: List[List[int]]) -> int:
+        n=len(pre[0])
         if(n==1):
             return 0
         for i in range(2,n):
