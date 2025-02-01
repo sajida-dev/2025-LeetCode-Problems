@@ -4,6 +4,8 @@ class Solution:
         self.ans = []
         visit = [False]*9
         def backtrack(sumVal,visit,res):
+            if(sumVal > n):
+                return
             if(len(res)+1 == k):
                 val = n-sumVal
                 if((0 < val<= 9) and (not visit[val-1])):
