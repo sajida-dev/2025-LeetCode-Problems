@@ -39,3 +39,19 @@ Got a different approach to a problem? Found an optimization? Open a pull reques
 
 ### Show Some Love ❤️
 If this repository has helped you in any way, please consider giving it a star ⭐. Let’s make 2025 the year of growth, one problem at a time!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+<!---LeetCode Topics End-->
