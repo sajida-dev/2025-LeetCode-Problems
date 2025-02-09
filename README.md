@@ -49,6 +49,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1364-tuple-with-same-product](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [2434-design-a-number-container-system](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
 | ------- |
@@ -58,11 +59,13 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1364-tuple-with-same-product](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 ## Array
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -79,4 +82,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
