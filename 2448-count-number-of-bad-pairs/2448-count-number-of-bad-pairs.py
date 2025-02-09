@@ -5,10 +5,7 @@ class Solution:
         dic = {}
         for i in range(n):
             val = nums[i]-i
-            if(val in dic):
-                dic[val] += 1
-            else:
-                dic[val] = 1
+            dic[val] = dic[val]+1 if(val in dic) else 1
         for key in dic:
             if(dic[key] > 1):
                 m = dic[key]
