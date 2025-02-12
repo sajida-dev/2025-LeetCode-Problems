@@ -50,6 +50,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [2434-design-a-number-container-system](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1364-tuple-with-same-product](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +84,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
 | ------- |
@@ -95,4 +98,8 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [3447-clear-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3447-clear-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sorting
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
