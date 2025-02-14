@@ -71,6 +71,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -96,6 +98,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -105,4 +108,12 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
