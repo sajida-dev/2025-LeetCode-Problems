@@ -99,6 +99,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +117,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
