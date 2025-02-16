@@ -72,6 +72,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -121,4 +122,5 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
