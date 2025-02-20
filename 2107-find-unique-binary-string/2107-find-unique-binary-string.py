@@ -13,7 +13,11 @@ class Solution:
                     return s
                 return ''
             if(self.ans==''):
-                rec(per+['0'])
-                rec(per+['1'])
+                per.append('0')
+                rec(per)
+                per.pop()
+                per.append('1')
+                rec(per)
+                per.pop()
         rec([])
         return self.ans
