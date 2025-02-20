@@ -52,6 +52,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1160-letter-tile-possibilities](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [1160-letter-tile-possibilities](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +133,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1160-letter-tile-possibilities](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
