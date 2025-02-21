@@ -53,6 +53,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1160-letter-tile-possibilities](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,4 +142,20 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
