@@ -54,6 +54,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1160-letter-tile-possibilities](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +150,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,4 +165,9 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
