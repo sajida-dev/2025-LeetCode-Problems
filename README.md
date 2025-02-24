@@ -85,6 +85,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -151,15 +152,18 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,4 +174,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
