@@ -86,6 +86,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +116,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +135,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -178,4 +181,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
