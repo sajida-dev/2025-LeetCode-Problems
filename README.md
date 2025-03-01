@@ -91,6 +91,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3447-clear-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3447-clear-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Design
 |  |
 | ------- |
@@ -192,4 +194,8 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
