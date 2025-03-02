@@ -56,6 +56,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |
@@ -198,4 +200,5 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
