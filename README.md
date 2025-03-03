@@ -94,6 +94,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Design
 |  |
 | ------- |
@@ -201,4 +203,5 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
