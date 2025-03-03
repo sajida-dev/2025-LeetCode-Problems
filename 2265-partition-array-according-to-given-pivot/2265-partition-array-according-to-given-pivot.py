@@ -11,15 +11,10 @@ class Solution:
             if(nums[j]<pivot):
                 if(i!=j):
                     nums[i] = nums[j]
-                    
                 i += 1
             j += 1
-        j = 0
-        while(j<equ):
-            nums[i] = pivot
-            i,j = i+1,j+1
-        j = 0
-        while(j<len(gre)):
-            nums[i] = gre[j]
-            i,j=i+1,j+1
+        equal = [pivot]*equ
+        nums[i:i+equ] = equal
+        i += equ
+        nums[i:] = gre
         return nums
