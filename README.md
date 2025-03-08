@@ -134,6 +134,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2649-count-total-number-of-colored-cells](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [0062-unique-paths](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +206,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
+| [0062-unique-paths](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0062-unique-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,4 +225,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
