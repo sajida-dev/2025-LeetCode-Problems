@@ -70,6 +70,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
@@ -218,4 +219,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
