@@ -58,6 +58,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Counting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2456-construct-smallest-number-from-di-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2107-find-unique-binary-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Greedy
 |  |
 | ------- |
