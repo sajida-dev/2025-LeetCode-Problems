@@ -100,6 +100,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -121,6 +122,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2434-design-a-number-container-system](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -147,6 +149,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Data Stream
 |  |
 | ------- |
@@ -198,6 +201,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Graph
 |  |
 | ------- |
@@ -232,4 +236,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0062-unique-paths) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
