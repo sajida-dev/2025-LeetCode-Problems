@@ -101,6 +101,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2265-partition-array-according-to-given-pivot](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [3483-alternating-groups-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -232,6 +233,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 ## Combinatorics
 |  |
 | ------- |
