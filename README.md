@@ -59,6 +59,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1170-shortest-common-supersequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |
@@ -234,6 +236,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Combinatorics
 |  |
 | ------- |
