@@ -84,6 +84,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1364-tuple-with-same-product](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [1160-letter-tile-possibilities](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -248,4 +250,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
