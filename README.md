@@ -108,6 +108,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,4 +256,5 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
