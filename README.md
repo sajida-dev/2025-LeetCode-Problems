@@ -110,6 +110,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2690-house-robber-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -259,4 +260,5 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2690-house-robber-iv) |
 <!---LeetCode Topics End-->
