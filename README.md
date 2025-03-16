@@ -111,6 +111,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3643-zero-array-transformation-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2690-house-robber-iv) |
+| [2665-minimum-time-to-repair-cars](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 ## Simulation
 |  |
 | ------- |
@@ -261,4 +262,5 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3643-zero-array-transformation-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2690-house-robber-iv) |
+| [2665-minimum-time-to-repair-cars](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 <!---LeetCode Topics End-->
