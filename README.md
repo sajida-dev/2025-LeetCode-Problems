@@ -115,6 +115,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2690-house-robber-iv](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2690-house-robber-iv) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -250,6 +251,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3483-alternating-groups-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -270,4 +272,5 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
