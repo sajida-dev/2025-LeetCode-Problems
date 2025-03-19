@@ -116,6 +116,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2665-minimum-time-to-repair-cars](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
 | ------- |
@@ -175,6 +176,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1477-product-of-the-last-k-numbers](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -252,6 +254,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -273,4 +276,9 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
