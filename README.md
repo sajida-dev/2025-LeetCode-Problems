@@ -117,6 +117,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2308-divide-array-into-equal-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -224,6 +225,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -277,8 +279,13 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2308-divide-array-into-equal-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Queue
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
