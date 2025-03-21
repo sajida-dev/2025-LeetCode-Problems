@@ -62,6 +62,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Counting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2478-longest-nice-subarray](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Simulation
 |  |
 | ------- |
@@ -226,6 +229,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,4 +292,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
