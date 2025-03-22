@@ -208,11 +208,13 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +232,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,6 +295,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
