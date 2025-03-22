@@ -13,7 +13,6 @@ class Solution:
         for vertex in range(n):
             neighbors = tuple(sorted(graph[vertex]))
             connectedEdges[neighbors] += 1
-        print(graph,connectedEdges)
         # return sum(1 for ... if ...)
         return sum(
             1
