@@ -233,6 +233,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,6 +242,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [0062-unique-paths](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0062-unique-paths) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -300,4 +302,9 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
