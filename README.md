@@ -121,6 +121,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3430-count-days-without-meetings](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [3430-count-days-without-meetings](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3430-count-days-without-meetings) |
 ## Data Stream
 |  |
 | ------- |
