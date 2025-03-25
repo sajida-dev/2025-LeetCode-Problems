@@ -122,6 +122,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3430-count-days-without-meetings](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
 |  |
 | ------- |
@@ -172,6 +173,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [3430-count-days-without-meetings](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Data Stream
 |  |
 | ------- |
