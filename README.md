@@ -123,6 +123,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3430-count-days-without-meetings](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +162,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [0062-unique-paths](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0062-unique-paths) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +176,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [3430-count-days-without-meetings](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Data Stream
 |  |
 | ------- |
@@ -257,6 +260,7 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Number Theory
 |  |
 | ------- |
