@@ -126,6 +126,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Ordered Set
 |  |
 | ------- |
@@ -180,6 +182,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Data Stream
 |  |
 | ------- |
@@ -225,6 +228,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,11 +263,13 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2551-apply-operations-to-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Number Theory
 |  |
 | ------- |
@@ -309,6 +315,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Topological Sort
 |  |
 | ------- |
