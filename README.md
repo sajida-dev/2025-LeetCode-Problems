@@ -129,6 +129,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 ## Simulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 ## Ordered Set
 |  |
 | ------- |
@@ -185,6 +187,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 ## Data Stream
 |  |
 | ------- |
@@ -211,6 +214,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [0768-partition-labels](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 ## Tree
 |  |
 | ------- |
