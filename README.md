@@ -130,6 +130,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2888-minimum-index-of-a-valid-split](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Simulation
 |  |
 | ------- |
