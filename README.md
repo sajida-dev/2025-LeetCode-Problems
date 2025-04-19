@@ -131,6 +131,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -189,6 +190,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2888-minimum-index-of-a-valid-split](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Data Stream
 |  |
 | ------- |
@@ -273,6 +275,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2265-partition-array-according-to-given-pivot](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [0768-partition-labels](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0768-partition-labels) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -308,6 +311,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2690-house-robber-iv) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
