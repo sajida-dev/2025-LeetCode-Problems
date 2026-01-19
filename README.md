@@ -65,6 +65,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [0768-partition-labels](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0768-partition-labels) |
+| [0001-two-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0001-two-sum) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2681-put-marbles-in-bags](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [0001-two-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0001-two-sum) |
 ## Simulation
 |  |
 | ------- |
