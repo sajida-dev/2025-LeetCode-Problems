@@ -6,14 +6,14 @@ class Solution:
                     return [i,j]
 
 
-
-
 # sum = num[0] + num[1]  
 # sum = num[0] + num[2]
 # sum = num[0] + num[3]
 # sum = num[1] + num[2]
 # sum = num[1] + num[3]
+# sum = num[1] + num[0]
 # sum = num[2] + num[3]
+# sum = 
 # sum == target -- ending condition
 
 # range()
