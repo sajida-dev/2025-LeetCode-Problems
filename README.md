@@ -84,6 +84,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [0768-partition-labels](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0768-partition-labels) |
+| [0014-longest-common-prefix](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [0001-two-sum](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -343,4 +345,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
