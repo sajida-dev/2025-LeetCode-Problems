@@ -177,6 +177,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2610-closest-prime-numbers-in-range](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [0062-unique-paths](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0062-unique-paths) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [0009-palindrome-number](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0009-palindrome-number) |
 ## Stack
 |  |
 | ------- |
