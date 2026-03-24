@@ -85,6 +85,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [0768-partition-labels](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0014-longest-common-prefix](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0010-regular-expression-matching](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 ## Counting
 |  |
 | ------- |
@@ -276,6 +277,7 @@ If this repository has helped you in any way, please consider giving it a star â
 | [1170-shortest-common-supersequence](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [0062-unique-paths](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0062-unique-paths) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [0010-regular-expression-matching](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,4 +354,8 @@ If this repository has helped you in any way, please consider giving it a star â
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sajida-dev/2025-LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
